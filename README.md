@@ -84,3 +84,6 @@ ng build --prod
 docker-compose up --build
 ```
 
+#### Credits
+The original project author is `zhulinn`.
+Repo: https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store
